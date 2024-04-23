@@ -130,7 +130,7 @@ body{
 }
 
 #calculator{
-    grid-area: third;
+    grid-area: four;
 }
 
 #team{
@@ -138,7 +138,7 @@ body{
 }
 
 #karma{
-    grid-area: four;
+    grid-area: third;
 }
 
 @media (max-width: 975px){
