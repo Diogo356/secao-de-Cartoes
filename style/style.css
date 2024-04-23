@@ -140,7 +140,7 @@ body{
 }
 
 @media (max-width: 975px){
-    .main-content{
+    .cards{
         display: flex;
         justify-content: center;
         align-items: center;
